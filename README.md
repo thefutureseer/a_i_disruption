@@ -1,4 +1,18 @@
 # a_i_disruption
+
+Who will be most affected?
+
+The automation of jobs through AI will vary by industry and job type. Some jobs that are more routine and repetitive, such as those in manufacturing, customer service, and data entry, may be more easily automated and could be among the first to be affected by AI.
+For example, in the manufacturing industry, robots and other forms of automation have already replaced human workers in some tasks such as assembly line work. In the customer service industry, chatbots and virtual assistants are increasingly being used to handle simple customer inquiries and requests.
+However, it's important to note that AI is not necessarily meant to replace human jobs, but rather to augment and enhance them. AI can take over tasks that are repetitive or dangerous, allowing humans to focus on higher-level tasks that require creativity, critical thinking, and problem-solving skills.
+Furthermore, the adoption of AI technology will likely create new job opportunities as well, particularly in the areas of AI development and maintenance. It's also possible that some jobs may simply evolve to require different skills as a result of AI integration.
+
+The impact of AI on pay scales will vary depending on the industry and job type. As I mentioned earlier, jobs that are more routine and repetitive may be more easily automated, and as a result, the workers in those jobs may experience a shift in pay scales.
+For example, in the manufacturing industry, the introduction of automation and robotics has already led to job losses for lower-skilled workers, and those who remain in the industry may need to develop new skills or take on different types of roles in order to remain competitive. In this case, the pay scales for these jobs may shift downward as a result of the reduced demand for workers with those specific skill sets.
+On the other hand, the adoption of AI technology may also lead to the creation of new jobs and new opportunities for workers with specialized skills in areas such as data analysis, machine learning, and AI development. These new jobs may come with higher pay scales as demand for these skills grows.
+Overall, it's difficult to predict with certainty which pay scales will be most affected by AI, but it's likely that the shift will be felt most strongly in industries and job types that are most susceptible to automation and those that require skills that are easily replicated by AI.
+
+
 What can we do?
 
 As AI continues to advance and disrupt every industry, there are several things that individuals, businesses, and policymakers can do to prepare and adapt:
